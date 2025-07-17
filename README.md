@@ -1,8 +1,6 @@
 # IBMSkillsNetwork: GPXX0PYAEN - Text Sentiment Analysis using Caikit and Hugging Face
 
-## Author✍️
-
-**Cognitive Class AI - Doug Davis (PhD.)💎**
+**Cognitive Class AI 💎**
 
 **Completed Course:** Practice to Create Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai🔭🛸
 
